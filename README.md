@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Edgar Rodríguez 👋
 
 <!--
 **EdgarJRM/EdgarJRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a BYU-Pathway Worldwide student pursuing a career in software development. I chose this profession because I love technology and want to create programs that make people's lives easier. I like teaching and video games, and I believe that great things can be achieved by combining them.
