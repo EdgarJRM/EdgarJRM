@@ -24,27 +24,23 @@ I am a BYU-Pathway Worldwide student pursuing a career in software development. 
 
 - Proficient in:
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" **alt="Android" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" title="Godot" **alt="Godot" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" **alt="C#" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="kotlin" **alt="kotlin" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" **alt="nodejs" width="60" height="60"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="110" height="110"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="110" height="110"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="110" height="110"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="110" height="110"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" **alt="Android" width="110" height="110"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" title="Godot" **alt="Godot" width="110" height="110"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" **alt="C#" width="110" height="110"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="kotlin" **alt="kotlin" width="110" height="110"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" **alt="nodejs" width="110" height="110"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="110" height="110"/> <br/>
 </div>
-
 
 - Skills:
 Problem-solving
 Project management
 Teamwork and leadership
 Advanced English
-
-
-
 
 ## Let's Connect!
 
