@@ -36,7 +36,7 @@ I am a BYU-Pathway Worldwide student pursuing a career in software development. 
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="90" height="90"/> <br/>;
 </div>
 
-- Skills:
+- <b>Skills:</b><br>
 Problem-solving
 Project management
 Teamwork and leadership
