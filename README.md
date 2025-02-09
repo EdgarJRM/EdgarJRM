@@ -33,14 +33,15 @@ I am a BYU-Pathway Worldwide student pursuing a career in software development. 
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" **alt="C#" width="90" height="90"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="kotlin" **alt="kotlin" width="90" height="90"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" **alt="nodejs" width="90" height="90"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="90" height="90"/> <br/>;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="90" height="90"/> <br/>
 </div>
 
 - <b>Skills:</b><br>
 Problem-solving
 Project management
 Teamwork and leadership
-Advanced English
+Develop content in SQL code to implement a CRUD management tool using a web interface.
+Technical knowledge in connectivity and networks
 
 ## Let's Connect!
 
