@@ -35,7 +35,7 @@ I am a BYU-Pathway Worldwide student pursuing a career in software development. 
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" **alt="nodejs" width="90" height="90"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="90" height="90"/>
 </div>
-<br><br><br>
+<br><br>
 
 - <b>Skills:</b><br>
 Problem-solving <br>
@@ -44,8 +44,13 @@ Teamwork and leadership <br>
 Develop content in SQL code to implement a CRUD management tool using a web interface. <br>
 Technical knowledge in connectivity and networks. <br>
 
-## Let's Connect!
+## Projects and Work
+- A fully functional and responsive website was created.
+- A Tic Tac Toe game was created in Visual Studio as practice for learning the C# language.
+- Currently, a Ping Pong game will be worked on as a learning game in Godot with C#.
+- A text and voice translator will be created in Android Studio using Kotlin.
 
+## Let's Connect!
 - Here is my [LinkedIn](https://www.linkedin.com/in/edgarrodriguezm?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlSVoK52gTdmSrPwrl2gi8g%3D%3D) profile
 
 ## GitHub Statistics
