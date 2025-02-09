@@ -28,3 +28,9 @@ I am a BYU-Pathway Worldwide student pursuing a career in software development. 
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/edgarrodriguezm?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlSVoK52gTdmSrPwrl2gi8g%3D%3D) profile
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&hide_title=true)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark&count_private=true&hide_title=true)
+
