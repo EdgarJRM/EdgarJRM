@@ -22,8 +22,13 @@ I am a BYU-Pathway Worldwide student pursuing a career in software development. 
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: HTML5      CSS3      JavaScript      C#      Python      Node.js      Blazor      Git      GitHub      SQLite
+- Skills:
+Problem-solving
+Project management
+Teamwork and leadership
+Advanced English
+
 
 ## Let's Connect!
 
