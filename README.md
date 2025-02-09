@@ -37,11 +37,11 @@ I am a BYU-Pathway Worldwide student pursuing a career in software development. 
 </div>
 
 - <b>Skills:</b><br>
-Problem-solving
-Project management
-Teamwork and leadership
-Develop content in SQL code to implement a CRUD management tool using a web interface.
-Technical knowledge in connectivity and networks
+Problem-solving <br>
+Project management <br>
+Teamwork and leadership <br>
+Develop content in SQL code to implement a CRUD management tool using a web interface. <br>
+Technical knowledge in connectivity and networks. <br>
 
 ## Let's Connect!
 
